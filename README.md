@@ -19,13 +19,39 @@
 
 ---
 
+<div align="center">
+
+# 💫 Hi 👋, I'm Hatim Aliasgar
+
+### 🚀 Data Analyst | BI Analyst | Power BI Developer | Data Analytics Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Power+BI+%7C+SQL+%7C+Python+Developer;Building+Data+Driven+Solutions;Turning+Data+Into+Business+Insights;Machine+Learning+%26+Business+Intelligence" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Hatim%20Aliasgar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 BCA Graduate specializing in **Data Analytics**
+📊 Passionate about solving business problems using data
+⚡ Skilled in **Power BI, Tableau, SQL, Python & Machine Learning**
+📈 Experienced in KPI Dashboards, ETL Pipelines & Predictive Analytics
+🌱 Exploring **AI + Analytics + Cloud BI Solutions**
+💼 Open for **Data Analyst / BI Analyst Opportunities**
+
+<br><br>
+
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/hatim-aliasgar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:hatimaliasgar21@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://github.com/hatimaliasgarr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="kaggle" height="40" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/hatim-aliasgar" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+<a href="mailto:hatimaliasgar21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
+<a href="https://github.com/hatimaliasgarr" target="blank"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
 </p>
 
 ---
@@ -73,16 +99,20 @@
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimaliasgarr&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimaliasgarr&layout=compact&theme=tokyonight" height="180em" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatimaliasgarr&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatimaliasgarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimaliasgarr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hatimaliasgarr&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatimaliasgarr&theme=tokyonight"/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=hatimaliasgarr&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
@@ -94,31 +124,6 @@
 🏅 Qlik Sense Business Analyst / Data Architect
 🏅 Google Prompt Design in Vertex AI
 🏅 Active Kaggle Competitor & Analytics Hackathon Participant
-
----
-
-# 💼 Internship Experience
-
-## 📌 Business / Data Analyst Intern — Switchkart
-
-**Nov 2025 – Jan 2026 | Bengaluru**
-
-* Built interactive Power BI dashboards with advanced DAX measures for KPI tracking
-* Optimized SQL queries handling 500K+ row datasets
-* Automated reporting workflows using Power Query & Excel
-* Improved conversion rate by 12% through stakeholder-driven insights
-* Conducted customer segmentation using K-Means Clustering
-
----
-
-## 📌 Data Science Intern — Cyber Secure India (CSI)
-
-**May 2025 – Jul 2025 | Hybrid**
-
-* Performed EDA and predictive analytics using Python & Scikit-Learn
-* Built customer churn prediction models with 76% accuracy
-* Improved model performance through feature engineering & data wrangling
-* Delivered structured business intelligence reports to senior analysts
 
 ---
 
@@ -146,43 +151,34 @@
 
 ---
 
-# 📚 Coursework
+# 🐍 Contribution Snake
 
-* Data Analytics
-* Business Intelligence
-* Statistical Analysis
-* DBMS
-* Data Structures
-* Machine Learning Fundamentals
-* ETL Processes
-* Data Visualization
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
 
 ---
 
-# 🧠 Soft Skills
+# ⚡ Fun Fact
 
-✅ Data Storytelling
-✅ Stakeholder Reporting
-✅ Analytical Thinking
-✅ Team Collaboration
-✅ Problem Solving
-✅ Business Intelligence Reporting
-
----
-
-# 🔥 Current Goals
-
-* Build advanced AI-powered analytics projects
-* Master cloud-based BI solutions
-* Contribute to open-source analytics projects
-* Land a high-impact Data Analyst / BI Analyst role
+```yaml
+while(alive) {
+    eat();
+    sleep();
+    analyze_data();
+    build_dashboards();
+    repeat();
+}
+```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hatimaliasgarr&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>"Turning Data Into Decisions 📊"</b>
+<img src="https://komarev.com/ghpvc/?username=hatimaliasgarr&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+### 💙 Turning Data Into Decisions 📊
+
 </p>
