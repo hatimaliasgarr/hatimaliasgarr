@@ -1,5 +1,5 @@
-```md
 # Hi 👋, I'm Hatim Aliasgar
+
 ### Data Analyst | BI Analyst | Power BI Developer | Data Analytics Enthusiast
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-🎓 BCA Graduate (Data Analytics Specialization) from **Kristu Jayanti Deemed to be University, Bengaluru**  
-📊 Passionate about transforming raw data into meaningful business insights  
-💡 Skilled in **Power BI, Tableau, SQL, Python, ETL, Data Visualization & Machine Learning**  
-📈 Experienced in building KPI dashboards, predictive models & automated reporting systems  
-🌱 Currently exploring **Advanced Analytics, Cloud BI & AI-driven Data Solutions**  
+🎓 BCA Graduate (Data Analytics Specialization) from **Kristu Jayanti Deemed to be University, Bengaluru**
+📊 Passionate about transforming raw data into meaningful business insights
+💡 Skilled in **Power BI, Tableau, SQL, Python, ETL, Data Visualization & Machine Learning**
+📈 Experienced in building KPI dashboards, predictive models & automated reporting systems
+🌱 Currently exploring **Advanced Analytics, Cloud BI & AI-driven Data Solutions**
 🎯 Seeking opportunities in **Data Analytics / Business Intelligence / Power BI Development**
 
 ---
@@ -88,11 +88,11 @@
 
 # 🏆 Achievements & Certifications
 
-🏅 Microsoft Certified: Power BI Data Analyst Associate  
-🏅 PCAP: Programming Essentials in Python  
-🏅 Python for Data Science & Machine Learning  
-🏅 Qlik Sense Business Analyst / Data Architect  
-🏅 Google Prompt Design in Vertex AI  
+🏅 Microsoft Certified: Power BI Data Analyst Associate
+🏅 PCAP: Programming Essentials in Python
+🏅 Python for Data Science & Machine Learning
+🏅 Qlik Sense Business Analyst / Data Architect
+🏅 Google Prompt Design in Vertex AI
 🏅 Active Kaggle Competitor & Analytics Hackathon Participant
 
 ---
@@ -100,78 +100,82 @@
 # 💼 Internship Experience
 
 ## 📌 Business / Data Analyst Intern — Switchkart
+
 **Nov 2025 – Jan 2026 | Bengaluru**
 
-- Built interactive Power BI dashboards with advanced DAX measures for KPI tracking
-- Optimized SQL queries handling 500K+ row datasets
-- Automated reporting workflows using Power Query & Excel
-- Improved conversion rate by 12% through stakeholder-driven insights
-- Conducted customer segmentation using K-Means Clustering
+* Built interactive Power BI dashboards with advanced DAX measures for KPI tracking
+* Optimized SQL queries handling 500K+ row datasets
+* Automated reporting workflows using Power Query & Excel
+* Improved conversion rate by 12% through stakeholder-driven insights
+* Conducted customer segmentation using K-Means Clustering
 
 ---
 
 ## 📌 Data Science Intern — Cyber Secure India (CSI)
+
 **May 2025 – Jul 2025 | Hybrid**
 
-- Performed EDA and predictive analytics using Python & Scikit-Learn
-- Built customer churn prediction models with 76% accuracy
-- Improved model performance through feature engineering & data wrangling
-- Delivered structured business intelligence reports to senior analysts
+* Performed EDA and predictive analytics using Python & Scikit-Learn
+* Built customer churn prediction models with 76% accuracy
+* Improved model performance through feature engineering & data wrangling
+* Delivered structured business intelligence reports to senior analysts
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🛒 E-Commerce Sales Analytics Dashboard
+
 **Tech Used:** Python • Tableau • PostgreSQL • Power Query
 
-✔️ Built end-to-end ETL pipeline for 200K+ orders  
-✔️ Developed Tableau dashboards with KPI reporting & cohort analysis  
-✔️ Automated dashboard refresh using Python scripts  
+✔️ Built end-to-end ETL pipeline for 200K+ orders
+✔️ Developed Tableau dashboards with KPI reporting & cohort analysis
+✔️ Automated dashboard refresh using Python scripts
 ✔️ Improved reporting efficiency by 5+ hours/week
 
 ---
 
 ## 🏥 Healthcare No-Show Prediction Model
+
 **Tech Used:** Python • Scikit-Learn • Pandas • GCP
 
-✔️ Analyzed 110K+ patient records  
-✔️ Trained Random Forest model with 78% accuracy  
-✔️ Tracked Precision, Recall & F1-score metrics  
+✔️ Analyzed 110K+ patient records
+✔️ Trained Random Forest model with 78% accuracy
+✔️ Tracked Precision, Recall & F1-score metrics
 ✔️ Reduced patient no-shows by 22% using predictive analytics
 
 ---
 
 # 📚 Coursework
 
-- Data Analytics
-- Business Intelligence
-- Statistical Analysis
-- DBMS
-- Data Structures
-- Machine Learning Fundamentals
-- ETL Processes
-- Data Visualization
+* Data Analytics
+* Business Intelligence
+* Statistical Analysis
+* DBMS
+* Data Structures
+* Machine Learning Fundamentals
+* ETL Processes
+* Data Visualization
 
 ---
 
 # 🧠 Soft Skills
 
-✅ Data Storytelling  
-✅ Stakeholder Reporting  
-✅ Analytical Thinking  
-✅ Team Collaboration  
-✅ Problem Solving  
+✅ Data Storytelling
+✅ Stakeholder Reporting
+✅ Analytical Thinking
+✅ Team Collaboration
+✅ Problem Solving
 ✅ Business Intelligence Reporting
 
 ---
 
 # 🔥 Current Goals
 
-- Build advanced AI-powered analytics projects
-- Master cloud-based BI solutions
-- Contribute to open-source analytics projects
-- Land a high-impact Data Analyst / BI Analyst role
+* Build advanced AI-powered analytics projects
+* Master cloud-based BI solutions
+* Contribute to open-source analytics projects
+* Land a high-impact Data Analyst / BI Analyst role
 
 ---
 
@@ -182,4 +186,3 @@
 <p align="center">
   <b>"Turning Data Into Decisions 📊"</b>
 </p>
-```
