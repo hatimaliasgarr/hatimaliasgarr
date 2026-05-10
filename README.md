@@ -1,24 +1,3 @@
-# Hi 👋, I'm Hatim Aliasgar
-
-### Data Analyst | BI Analyst | Power BI Developer | Data Analytics Enthusiast
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Power+BI+%7C+Tableau+%7C+Python+Developer;SQL+%7C+ETL+%7C+Machine+Learning;Turning+Data+Into+Business+Insights" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 BCA Graduate (Data Analytics Specialization) from **Kristu Jayanti Deemed to be University, Bengaluru**
-📊 Passionate about transforming raw data into meaningful business insights
-💡 Skilled in **Power BI, Tableau, SQL, Python, ETL, Data Visualization & Machine Learning**
-📈 Experienced in building KPI dashboards, predictive models & automated reporting systems
-🌱 Currently exploring **Advanced Analytics, Cloud BI & AI-driven Data Solutions**
-🎯 Seeking opportunities in **Data Analytics / Business Intelligence / Power BI Development**
-
----
-
 <div align="center">
 
 # 💫 Hi 👋, I'm Hatim Aliasgar
@@ -113,41 +92,6 @@
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=hatimaliasgarr&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
-
----
-
-# 🏆 Achievements & Certifications
-
-🏅 Microsoft Certified: Power BI Data Analyst Associate
-🏅 PCAP: Programming Essentials in Python
-🏅 Python for Data Science & Machine Learning
-🏅 Qlik Sense Business Analyst / Data Architect
-🏅 Google Prompt Design in Vertex AI
-🏅 Active Kaggle Competitor & Analytics Hackathon Participant
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 E-Commerce Sales Analytics Dashboard
-
-**Tech Used:** Python • Tableau • PostgreSQL • Power Query
-
-✔️ Built end-to-end ETL pipeline for 200K+ orders
-✔️ Developed Tableau dashboards with KPI reporting & cohort analysis
-✔️ Automated dashboard refresh using Python scripts
-✔️ Improved reporting efficiency by 5+ hours/week
-
----
-
-## 🏥 Healthcare No-Show Prediction Model
-
-**Tech Used:** Python • Scikit-Learn • Pandas • GCP
-
-✔️ Analyzed 110K+ patient records
-✔️ Trained Random Forest model with 78% accuracy
-✔️ Tracked Precision, Recall & F1-score metrics
-✔️ Reduced patient no-shows by 22% using predictive analytics
 
 ---
 
